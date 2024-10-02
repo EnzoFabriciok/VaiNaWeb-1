@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: tomato;
+    height: 100px;
+    padding-top: 30px;
+}
+h1 {
+    text-align: center;
+    color: beige;
+    border: solid;
+}
+img {
+    width: 200px;
+}
+figure {
+   // display: flex;
+    
+    margin-left: 200px;
+    margin-top: 15px;
+}
